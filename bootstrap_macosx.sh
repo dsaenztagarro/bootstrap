@@ -1,0 +1,1 @@
+sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Please return to David +34695680107"
